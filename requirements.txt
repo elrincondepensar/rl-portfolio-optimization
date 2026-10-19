@@ -1,0 +1,12 @@
+pandas
+numpy
+yfinance
+matplotlib
+plotly
+scikit-learn
+statsmodels
+arch
+pymc
+torch
+gymnasium
+stable-baselines3
